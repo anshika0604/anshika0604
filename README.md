@@ -90,7 +90,8 @@ I'm a passionate developer with a keen interest in building scalable web applica
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anshika0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-# Say hi!
+
+## Say hi!
 
 📧 anshikanegi.cs19@gmail.com · 🌐 [anshikanegi.site](https://www.anshikanegi.site) · 📄 [Resume PDF](https://drive.google.com/file/d/1xOXCT-kKTNmV-m_TncHgRi16spneKVQq/view?usp=sharing)
 
