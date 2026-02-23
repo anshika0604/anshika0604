@@ -14,7 +14,7 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - 🔭 Currently working on interesting projects
 - 🌱 Always learning new technologies
 - 💡 Love solving complex problems
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [anshikanegi.cs19@gmail.com](mailto:anshikanegi.cs19@gmail.com)
 
 ---
 
@@ -66,8 +66,8 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ## 📌 Featured Projects
 
 <!-- Add your featured projects here -->
-- **[Android Attendance System (QR)]([link](https://github.com/anshika0604/Android-Attendance-Sytem-Using-QR-Code))** - QR-based attendance app with Firebase realtime sync for students & faculty.
-- **[Tic-Tac-Toe Game]([link](https://github.com/anshika0604/Tic-Tac-Toe-Online))** - Multiplayer Android game with offline (local & vs computer) and online modes using Firebase game codes for cross-device play.
+- **[Android Attendance System (QR)]([(https://github.com/anshika0604/Android-Attendance-Sytem-Using-QR-Code)])** - QR-based attendance app with Firebase realtime sync for students & faculty.
+- **[Tic-Tac-Toe Game]([(https://github.com/anshika0604/Tic-Tac-Toe-Online)])** - Multiplayer Android game with offline (local & vs computer) and online modes using Firebase game codes for cross-device play.
 
 ---
 
