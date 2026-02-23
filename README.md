@@ -1,49 +1,101 @@
-# Hi there, I'm Anshika! 👋
+# Hi there! 👋 I'm Anshika
 
-🚀 **Full-stack Developer** passionate about building responsive web applications and Android apps  
-📱 Crafting beautiful user experiences with modern tech stack  
-💻 From web development to mobile apps, I love bringing ideas to life  
-📍 Based in India
-
----
-
-## 🎯 What I'm Working On
-
-- 🔭 Building full-stack applications with **React** and **JavaScript**
-- 📱 Developing Android applications using **Java**
-- 🎨 Creating responsive, user-friendly web interfaces with **TailwindCSS**
-- 💡 Exploring new technologies and best practices in web & mobile development
-- 🚀 Open to collaborations on **web development** and **app development** projects
+<!-- Banner/Hero Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack I Actually Use
+## 🚀 About Me
 
-**Frontend:**
-- React.js
-- JavaScript
-- TailwindCSS
-- HTML5 & CSS3
+I'm a passionate developer with a keen interest in building scalable web applications and exploring new technologies. I love contributing to open-source projects and sharing knowledge with the community.
 
-**Mobile:**
-- Android Development
-- Java
+- 🔭 Currently working on interesting projects
+- 🌱 Always learning new technologies
+- 💡 Love solving complex problems
+- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
-**Others:**
-- Version Control (Git)
-- Web Development Best Practices
+---
+
+## 💻 Tech Stack I Use
+
+### Languages
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+### Frontend
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+### Backend
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+### Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshika0604&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika0604&layout=compact&langs_count=8&theme=radical" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+- ⭐ Contributed to multiple open-source projects
+- 🎓 Continuous learner and tech enthusiast
+- 💼 Experienced in full-stack development
+- 🤝 Active community contributor
 
 ---
 
 ## 📌 Featured Projects
 
-Some of my notable projects:
-
-- **[Portfolio](https://github.com/anshika0604/portfolio)** - Personal portfolio website built with React & TailwindCSS  
-- **[Android-Projects](https://github.com/anshika0604/Android-Projects)** - Collection of Android app projects  
-- **[Zomato Clone](https://github.com/anshika0604/zomato-clone)** - Food delivery app UI clone  
-- **[Task App](https://github.com/anshika0604/task_app)** - Task management application
+<!-- Add your featured projects here -->
+- **[Project Name](link)** - Brief description
+- **[Project Name](link)** - Brief description
 
 ---
 
-## 📊 A Bit About Me
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshika0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
