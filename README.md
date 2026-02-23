@@ -54,15 +54,6 @@ I'm a passionate developer with a keen interest in building scalable web applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshika0604&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika0604&layout=compact&langs_count=8&theme=radical" />
-</div>
-
----
-
 ## 🏆 Achievements
 
 - ⭐ Contributed to multiple open-source projects
@@ -75,8 +66,8 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ## 📌 Featured Projects
 
 <!-- Add your featured projects here -->
-- **[Project Name](link)** - Brief description
-- **[Project Name](link)** - Brief description
+- **[Android Attendance System (QR)]([link](https://github.com/anshika0604/Android-Attendance-Sytem-Using-QR-Code))** - QR-based attendance app with Firebase realtime sync for students & faculty.
+- **[Tic-Tac-Toe Game]([link](https://github.com/anshika0604/Tic-Tac-Toe-Online))** - Multiplayer Android game with offline (local & vs computer) and online modes using Firebase game codes for cross-device play.
 
 ---
 
