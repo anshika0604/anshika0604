@@ -20,7 +20,7 @@
   <a href="https://www.anshikanegi.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1xOXCT-kKTNmV-m_TncHgRi16spneKVQq/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1JM17DVFpNNml7918j8MqbKYsaZVKLtr8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
@@ -80,7 +80,7 @@ I'm a passionate developer with a keen interest in building scalable web applica
 
 ## 🤝 Let's Connect (Say hi!)
 
-📧 anshikanegi.cs19@gmail.com · 🌐 [anshikanegi.site](https://www.anshikanegi.site) · 📄 [Resume PDF](https://drive.google.com/file/d/1xOXCT-kKTNmV-m_TncHgRi16spneKVQq/view?usp=sharing)
+📧 anshikanegi.cs19@gmail.com · 🌐 [anshikanegi.site](https://www.anshikanegi.site) · 📄 [Resume PDF](https://drive.google.com/file/d/1JM17DVFpNNml7918j8MqbKYsaZVKLtr8/view?usp=sharing)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anshika0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
